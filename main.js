@@ -9,8 +9,8 @@ var g_interestedInFeatures = [
   'match',
   'roster',
   'kill',
-  'death'
-
+  'death',
+  'match_info'
 ];
 
 function registerEvents() {
